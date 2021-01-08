@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# News Application created using Hacker-News API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This application uses [Hacker-News API](https://github.com/HackerNews/API) to retrieve details about new and top stories published by them.
 
 ## Available Scripts
 
